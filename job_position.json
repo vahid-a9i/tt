@@ -1,0 +1,190 @@
+[
+    {
+        "key": "1",
+        "name": "Product Design Lead"
+    },
+    {
+        "key": "2",
+        "name": "UI/UX Designer"
+    },
+    {
+        "key": "3",
+        "name": "User Experience Researcher"
+    },
+    {
+        "key": "4",
+        "name": "Product Lead"
+    },
+    {
+        "key": "5",
+        "name": "Product Manager"
+    },
+    {
+        "key": "6",
+        "name": "Product Owner"
+    },
+    {
+        "key": "7",
+        "name": "Product Analyst"
+    },
+    {
+        "key": "8",
+        "name": "Product Marketer"
+    },
+    {
+        "key": "9",
+        "name": "Project Manager"
+    },
+    {
+        "key": "10",
+        "name": "Program Manager"
+    },
+    {
+        "key": "11",
+        "name": "Scrum Master"
+    },
+    {
+        "key": "12",
+        "name": "Technical Lead"
+    },
+    {
+        "key": "13",
+        "name": "Front-end Developer"
+    },
+    {
+        "key": "14",
+        "name": "Back-end Developer"
+    },
+    {
+        "key": "15",
+        "name": "iOS Developer"
+    },
+    {
+        "key": "16",
+        "name": "Android Developer"
+    },
+    {
+        "key": "17",
+        "name": "Full Stack Developer"
+    },
+    {
+        "key": "18",
+        "name": "QA Engineer"
+    },
+    {
+        "key": "19",
+        "name": "Software Tester"
+    },
+    {
+        "key": "20",
+        "name": "DevOps Engineer"
+    },
+    {
+        "key": "21",
+        "name": "Systems Administrator"
+    },
+    {
+        "key": "22",
+        "name": "Data Architect"
+    },
+    {
+        "key": "23",
+        "name": "Marketing Lead"
+    },
+    {
+        "key": "24",
+        "name": "Digital Marketing Specialist"
+    },
+    {
+        "key": "25",
+        "name": "SEO Specialist"
+    },
+    {
+        "key": "26",
+        "name": "Graphic Designer"
+    },
+    {
+        "key": "27",
+        "name": "Content Writer"
+    },
+    {
+        "key": "28",
+        "name": "Social Media Specialist"
+    },
+    {
+        "key": "29",
+        "name": "Data Analyst"
+    },
+    {
+        "key": "30",
+        "name": "Business Analyst"
+    },
+    {
+        "key": "31",
+        "name": "Data Scientist"
+    },
+    {
+        "key": "32",
+        "name": "Data Engineer"
+    },
+    {
+        "key": "33",
+        "name": "BI Analyst"
+    },
+    {
+        "key": "34",
+        "name": "Financial Analyst"
+    },
+    {
+        "key": "35",
+        "name": "Risk Analyst"
+    },
+    {
+        "key": "36",
+        "name": "Human Resources Manager"
+    },
+    {
+        "key": "37",
+        "name": "HR Business Partner"
+    },
+    {
+        "key": "38",
+        "name": "Talent Acquisition Specialist"
+    },
+    {
+        "key": "39",
+        "name": "Business Process Analyst"
+    },
+    {
+        "key": "40",
+        "name": "ERP Analyst"
+    },
+    {
+        "key": "41",
+        "name": "Accountant"
+    },
+    {
+        "key": "42",
+        "name": "Customer Support Manager"
+    },
+    {
+        "key": "43",
+        "name": "Technical Support Specialist"
+    },
+    {
+        "key": "44",
+        "name": "Help Desk Analyst"
+    },
+    {
+        "key": "45",
+        "name": "Cybersecurity Analyst"
+    },
+    {
+        "key": "46",
+        "name": "Security Consultant"
+    },
+    {
+        "key": "47",
+        "name": "Cloud Engineer"
+    }
+]

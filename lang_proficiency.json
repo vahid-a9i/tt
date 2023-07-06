@@ -1,0 +1,26 @@
+[
+    {
+        "key": "1",
+        "name": "No proficiency"
+    },
+    {
+        "key": "2",
+        "name": "Elementary"
+    },
+    {
+        "key": "3",
+        "name": "Limited working"
+    },
+    {
+        "key": "4",
+        "name": "Professional working proficiency"
+    },
+    {
+        "key": "5",
+        "name": "Full professional proficiency"
+    },
+    {
+        "key": "6",
+        "name": "Native fluency"
+    }
+]

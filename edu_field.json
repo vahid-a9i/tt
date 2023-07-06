@@ -1,0 +1,118 @@
+[
+    {
+        "key": "1",
+        "name": "Product Design (UI/UX)"
+    },
+    {
+        "key": "2",
+        "name": "Product Management"
+    },
+    {
+        "key": "3",
+        "name": "Product Marketing"
+    },
+    {
+        "key": "4",
+        "name": "Project Management"
+    },
+    {
+        "key": "5",
+        "name": "Front-end Development"
+    },
+    {
+        "key": "6",
+        "name": "Back-end Development"
+    },
+    {
+        "key": "7",
+        "name": "Mobile App Development"
+    },
+    {
+        "key": "8",
+        "name": "Fullstack Development"
+    },
+    {
+        "key": "9",
+        "name": "Quality Assurance"
+    },
+    {
+        "key": "10",
+        "name": "DevOps & Infrastructure"
+    },
+    {
+        "key": "11",
+        "name": "Database Management"
+    },
+    {
+        "key": "12",
+        "name": "Digital Marketing"
+    },
+    {
+        "key": "13",
+        "name": "Graphic Design"
+    },
+    {
+        "key": "14",
+        "name": "Content Creation"
+    },
+    {
+        "key": "15",
+        "name": "Social Media Management"
+    },
+    {
+        "key": "16",
+        "name": "Search Engine Optimization (SEO)"
+    },
+    {
+        "key": "17",
+        "name": "Data Analysis"
+    },
+    {
+        "key": "18",
+        "name": "Data Science"
+    },
+    {
+        "key": "19",
+        "name": "Data Engineering"
+    },
+    {
+        "key": "20",
+        "name": "Business Intelligence"
+    },
+    {
+        "key": "21",
+        "name": "Financial Analysis"
+    },
+    {
+        "key": "22",
+        "name": "Risk Management"
+    },
+    {
+        "key": "23",
+        "name": "Human Resources Management"
+    },
+    {
+        "key": "24",
+        "name": "Business Process Automation"
+    },
+    {
+        "key": "25",
+        "name": "ERP Systems"
+    },
+    {
+        "key": "26",
+        "name": "Accounting"
+    },
+    {
+        "key": "27",
+        "name": "Customer Support"
+    },
+    {
+        "key": "28",
+        "name": "Cybersecurity"
+    },
+    {
+        "key": "29",
+        "name": "Cloud Computing"
+    }
+]

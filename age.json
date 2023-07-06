@@ -1,0 +1,22 @@
+[
+    {
+        "key": "1",
+        "name": "Under 18 years old"
+    },
+    {
+        "key": "2",
+        "name": "18 - 25 years old"
+    },
+    {
+        "key": "3",
+        "name": "26 - 35 years old"
+    },
+    {
+        "key": "4",
+        "name": "36 - 45 years old"
+    },
+    {
+        "key": "5",
+        "name": "46 - 55 years old"
+    }
+]

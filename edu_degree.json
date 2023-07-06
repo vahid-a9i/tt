@@ -1,0 +1,18 @@
+[
+    {
+        "key": "1",
+        "name": "Associate Degree"
+    },
+    {
+        "key": "2",
+        "name": "Bachelor's Degree"
+    },
+    {
+        "key": "3",
+        "name": "Master's Degree"
+    },
+    {
+        "key": "4",
+        "name": "Doctorate Degree"
+    }
+]
